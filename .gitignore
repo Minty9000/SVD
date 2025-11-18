@@ -1,0 +1,9 @@
+# Ignore all CSV files everywhere
+*.csv
+
+# If you want to ignore only in specific folders, add paths:
+# data/*.csv
+# logs/*.csv
+
+# If you want to keep one specific CSV file tracked:
+# !important_data.csv
